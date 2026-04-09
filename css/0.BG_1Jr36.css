@@ -2161,6 +2161,7 @@ html {
 }
 
 .grain {
+    background-image: url(../images/grain.BVZAnKJ_.gif);
     opacity: 10%;
     background-blend-mode: overlay;
     pointer-events: none
