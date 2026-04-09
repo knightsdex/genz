@@ -1611,7 +1611,10 @@ html {
 }
 
 .bg-gradient-to-b {
-    background-image: linear-gradient(to bottom, var(--tw-gradient-stops))
+    background-image: url("../banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .from-primary {
@@ -2069,7 +2072,7 @@ html {
     }
 
     .md\:w-\[60vh\] {
-        width: 60vh
+        width: 74vh
     }
 
     .md\:flex-row {
